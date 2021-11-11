@@ -6,7 +6,9 @@ Crachá com dados de usuário sincronizado com o GitHub através de uma API. Pro
 
 ## Layout
 
-![Imagem demonstrativa do projeto](demo/layout.png)
+<div align="center">
+<img src="demo/layout.png" alt="Imagem demonstrativa"></img>
+</div>
 
 ## Tecnologias utilizadas
 
